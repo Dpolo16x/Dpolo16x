@@ -1,6 +1,8 @@
 <!-- SALUDO DE MI GITHUB -->
 <h1 align="center"><b>Hi , I'm Diego Polo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="right" width=300px alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVvNjkzem1lam8wNHBxNTQ2eXFob3NsbmF0bmpvaGJyczcwbWZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <!-- GIF DEL ABOUT ME-->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6Z2lwdXZwOWV0eGthc2dlbGdxYmJvNjV4NjQxNXhoaHpxNDU0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEWPSg4LhpVF8KKv9s/giphy.gif" width="40px">&nbsp;***About me***
 
@@ -36,14 +38,18 @@ I am a Systems Engineering student currently in my 4th semester, passionate abou
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   
 </span>
 
 <!-- OTRAS HERRAMIENTAS Y TECNOLOGIAS-->
-<h4> Other Tools and Technologies </h4>
+<h4> Tools & Technologies </h4>
 <span>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
 
 </span>
