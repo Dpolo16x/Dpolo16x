@@ -27,7 +27,7 @@ name: Diego Polo
 location: Colombia 🇨🇴
 education: Systems Engineering — 4th Semester
 
-currentfocus:
+current focus:
   - Node.js & REST APIs
   - MongoDB & Database design
   - Building full-stack projects
